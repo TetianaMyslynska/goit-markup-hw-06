@@ -96,10 +96,10 @@ img {
   letter-spacing: 0.03em;
   margin-right: 93px;
 }
-.logo-color-blue {
+.logo__text-blue {
   color: var(--accent-color-blue);
 }
-.logo-color-white {
+.logo__text-white {
   color: var(--primary-white-color);
 }
 .link {
